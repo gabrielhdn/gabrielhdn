@@ -1,5 +1,4 @@
-![pintura-3](https://user-images.githubusercontent.com/100055011/160987981-8fa5112f-511a-47c8-bd16-45ba3081c68f.png)
-
+![mountains 12-2](https://user-images.githubusercontent.com/100055011/160991662-4f98ffde-60e3-4bb7-8d7d-7869b3426078.jpg)
 
 <h3 align="center">Oi! Sou o Gabriel, estudante de Desenvolvimento Web na Trybe :)</h2>
 
