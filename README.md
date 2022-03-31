@@ -1,11 +1,14 @@
-![mountains-2](https://user-images.githubusercontent.com/100055011/160985364-905d0f7a-6363-4b28-ab92-34fcd0eb1f26.jpg)
+![pintura-3](https://user-images.githubusercontent.com/100055011/160987981-8fa5112f-511a-47c8-bd16-45ba3081c68f.png)
+
 
 <h3 align="center">Oi! Sou o Gabriel, estudante de Desenvolvimento Web na Trybe :)</h2>
 
+##
+
 <div align="center">
   <a href="https://github.com/gabrielhdn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielhdn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhdn&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabrielhdn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhdn&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,6 +24,8 @@
  <a href="https://www.linkedin.com/in/gabrielherdina/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:gherdina7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/id/herdina/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
+
+   ![Snake animation](https://github.com/gabrielhdn/gabrielhdn/blob/output/github-contribution-grid-snake.svg)
 </div>
    
- ![Snake animation](https://github.com/gabrielhdn/gabrielhdn/blob/output/github-contribution-grid-snake.svg)
+ 
