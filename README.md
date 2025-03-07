@@ -1,6 +1,6 @@
 ![mountains 12-2](https://user-images.githubusercontent.com/100055011/160991662-4f98ffde-60e3-4bb7-8d7d-7869b3426078.jpg)
 
-<h3 align="center">Welcome! My name is Gabriel and I'm a software development student based in Curitiba, Brazil :)</h2>
+<h3 align="center">Welcome! My name is Gabriel and I'm a software developer based in Curitiba, Brazil :)</h2>
 
 ##
 
